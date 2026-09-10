@@ -10,7 +10,7 @@ env:
   AZURE_WEBAPP_NAME: webapp-aula123
   RESOURCE_GROUP: rg-python-aula
   ACR_NAME: registroativiade
-  ACR_LOGIN_SERVER: registroativiade.azurecr.io
+  ACR_LOGIN_SERVER: registroativiade-fud0hpc0d8bygdas.azurecr.io
   IMAGE_NAME: minha-app
   IMAGE_TAG: latest
 
